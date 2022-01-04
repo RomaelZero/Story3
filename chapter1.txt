@@ -1,1 +1,2 @@
 Hey! this is chapter1.
+This is the extended chapter from the secondary branch.
